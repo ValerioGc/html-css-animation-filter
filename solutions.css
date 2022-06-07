@@ -24,9 +24,15 @@
     transform: scale(2);
 }
 /* Esercizio 6 */
-
+.ex-6-img:hover {
+    transition: all 0.2s linear 0s;
+    filter: grayscale(1);
+}
 /* Esercizio 7 */
-
+.ex-7-img:hover {
+    transition: all 2s ease-in-out 0s;
+    filter: grayscale(0.5) sepia(0.5);
+}
 /* Esercizio 8 */
 
 /* Esercizio 9 */
