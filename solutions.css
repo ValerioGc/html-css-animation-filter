@@ -1,0 +1,4 @@
+.ex-1-square:hover {
+    transition: all 1s linear 0.2s;
+    background-color: red;
+}
