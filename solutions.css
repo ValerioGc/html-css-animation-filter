@@ -39,9 +39,13 @@
     filter: grayscale(0.5) sepia(0.5);
     border-radius: 5%;
 }
-
 /* Esercizio 9 */
-
+.ex-9-img:hover {
+    transition: all 1s linear 0s;
+    filter: grayscale(0.5) sepia(0.5);
+    border-radius: 7%;
+    transform: scale(1.5);
+}
 /* Esercizio 10 */
 
 /* Esercizio 11 */
