@@ -57,7 +57,19 @@
     }
 }
 /* Esercizio 11 */
-
+.ex-11-icon:hover {
+    animation: rotation-3-4 2s linear reverse;
+}
+@keyframes rotation-3-4 {
+    50% {
+        transform: rotate(270deg);
+    }
+    100% {
+        transform: rotate(0deg);
+        animation-duration: 0.2s;
+        animation-direction: normal;
+    }
+}
 /* Esercizio 12 */
 
 /* Esercizio 13 */
