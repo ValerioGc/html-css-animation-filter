@@ -19,7 +19,10 @@
     opacity: 0;
 }
 /* Esercizio 5 */
-
+.ex-5-square:hover {
+    transition: all 1s linear 0.2s;
+    transform: scale(2);
+}
 /* Esercizio 6 */
 
 /* Esercizio 7 */
