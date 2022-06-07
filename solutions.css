@@ -9,7 +9,10 @@
     width:100%;
 }
 /* Esercizio 3 */
-
+.ex-3-square:hover {
+    transition: all 0.5s linear 0.2s;
+    border-radius: 50%;
+}
 /* Esercizio 4 */
 
 /* Esercizio 5 */
