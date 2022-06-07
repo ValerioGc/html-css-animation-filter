@@ -47,7 +47,15 @@
     transform: scale(1.5);
 }
 /* Esercizio 10 */
-
+.ex-10-icon {
+    animation: rotation 1s linear infinite;
+}
+@keyframes rotation {
+    0% {
+        animation-direction: reverse;
+        transform: rotate(360deg);
+    }
+}
 /* Esercizio 11 */
 
 /* Esercizio 12 */
