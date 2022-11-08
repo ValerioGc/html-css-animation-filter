@@ -20,7 +20,7 @@
 
 
 ![Preview 1](/previews/preview-animation.png)
-![Preview 2](/previews/preview-animation.png)
+![Preview 2](/previews/preview-animation2.png)
 
 
 --------
